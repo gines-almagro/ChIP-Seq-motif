@@ -1,0 +1,1 @@
+cmd = /home/galmagro/MYC/P4936/GSE36354/CMYC_0H/Reduced50/seq_reduced50_peaks_GSE36354_CMYC_0H_both.fasta human /home/galmagro/MYC/P4936/GSE36354/CMYC_0H/Reduced50/Homer/Homer_region_peaks -fastaBg /home/galmagro/BackgroundSeq/3102Subset/seq_genome_background_peaks_both.fasta -p 10 -len 8,10,12
